@@ -15,7 +15,7 @@ A comprehensive dental clinic management system developed in C# as an Object-Ori
 - C#
 - Windows Forms / WPF
 - .NET Framework
-- SQL Server / MySQL (specify which database you used)
+- SQL Server / MySQL
 - ADO.NET for database connectivity
 - Object-Oriented Programming principles
 
